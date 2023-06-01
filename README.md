@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rickruad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rickruad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://mx.linkedin.com/in/rickruad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://mx.linkedin.com/in/rickruad" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ricardora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ricardora" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rickruad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://mx.linkedin.com/in/rickruad" height="30" width="40" /></a>
+<a href="https://www.behance.net/ricardora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ricardora" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
